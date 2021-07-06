@@ -1,0 +1,89 @@
+
+  
+  .logo{
+    
+   
+    position: absolute;
+    left: 316px;
+    top: 56px;
+    width: 41px;
+    height: 41px;
+    z-index: 239;
+  }
+ 
+
+ body{
+   display:flex;
+   flex-direction:column;
+
+
+   }
+
+
+ 
+  .descri_gauche h1 {
+    font-size: 35px;
+    font-family: "OpenSans";
+    color: rgb(34, 38, 38);
+    line-height: 0.686;
+    position: absolute;
+    left: 313.428px;
+    top: 1083.643px;
+    width: 322px;
+    height: 36px;
+    z-index: 151;
+  }
+  .descri_gauche p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(149, 149, 149);
+    line-height: 1.714;
+    position: absolute;
+    left: 911.937px;
+    top: 1250.25px;
+    width: 574px;
+    height: 135px;
+    z-index: 150;
+  }
+ .descri_droite p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(149, 149, 149);
+    line-height: 1.714;
+    position: absolute;
+    left: 310.937px;
+    top: 1152.25px;
+    width: 569px;
+    height: 279px;
+    z-index: 149;
+  }
+  .contenu{
+
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+    position: absolute;
+  left: 315px;
+  top: 1492px;
+  width: 1800px;
+  height: 5219px;
+  z-index: 147;
+
+
+  }
+  .ligne1{
+
+    display:flex;
+    
+    
+  }
+
+  .ligne2{
+
+    display:flex;
+    
+  }
+
+ 
+  
+  
